@@ -26,8 +26,10 @@ function App() {
         <div className="bg-blue-500">hello</div>
         <div className="bg-yellow-500">hello</div>
       </div>
+
+      <div className="bg-orange-500  md:bg-blue-500">Hi is media</div>
     </>
-  );
+  ); 
 }
 
 export default App;
