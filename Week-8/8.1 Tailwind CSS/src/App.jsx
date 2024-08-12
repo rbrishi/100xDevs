@@ -28,6 +28,7 @@ function App() {
       </div>
 
       <div className="bg-orange-500  md:bg-blue-500">Hi is media</div>
+      <div>hi completed</div>
     </>
   ); 
 }
